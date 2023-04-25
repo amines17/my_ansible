@@ -1,0 +1,16 @@
+hosts :
+    - lubuntu:
+        address: 127.0.0.1
+        port: 2222
+        username: lubuntu
+        password: 'qwerty'
+        key_filename:
+
+    - lubuntu:
+          address: 127.0.0.2
+          port: 2222
+          username: lubuntu
+          password: 'qwerty'
+          key_filename:
+
+
